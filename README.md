@@ -1,5 +1,3 @@
-<h1 align="center">Mac</h1>
-
 <p align="center">
   10+ years in Java backend · All in on AI agents<br/>
   <sub>China · building agent products</sub>
